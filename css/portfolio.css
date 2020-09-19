@@ -147,7 +147,7 @@
 }
 
 .portfolio-list .portfolio-p {
-  color: #757575;
+  color: var(--primary-gray-color);
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
